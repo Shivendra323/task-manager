@@ -15,7 +15,7 @@ A task management application built with React. It allows users to manage tasks 
 ![Task Manager Screenshot 1](https://res.cloudinary.com/dyifiiyxl/image/upload/v1731525605/Screenshot_from_2024-11-14_00-48-55_p0wxdy.png)
 *Task Manager Dashboard*
 
-![Task Manager Screenshot 2]([./screenshots/task-manager-screenshot2.png](https://res.cloudinary.com/dyifiiyxl/image/upload/v1731525749/Screenshot_from_2024-11-14_00-52-07_zeu8vd.png))
+![Task Manager Screenshot 2](https://res.cloudinary.com/dyifiiyxl/image/upload/v1731525749/Screenshot_from_2024-11-14_00-52-07_zeu8vd.png)
 *Task Form for Adding/Editing Tasks*
 
 ## Installation
@@ -23,3 +23,9 @@ A task management application built with React. It allows users to manage tasks 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/task-manager.git
+
+## Contact
+
+For any queries or support, please reach out at:
+- **Email**: Shivendra323@gmail.com
+- **GitHub**: [Shivendra323](https://github.com/Shivendra323)
