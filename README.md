@@ -22,7 +22,7 @@ A task management application built with React. It allows users to manage tasks 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/task-manager.git
+   https://github.com/Shivendra323/task-manager.git
 
 ## Contact
 
