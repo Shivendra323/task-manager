@@ -12,10 +12,10 @@ A task management application built with React. It allows users to manage tasks 
 
 ## Screenshots
 
-![Task Manager Screenshot 1](./screenshots/task-manager-screenshot1.png)
+![Task Manager Screenshot 1]([./screenshots/task-manager-screenshot1.png](https://res.cloudinary.com/dyifiiyxl/image/upload/v1731525605/Screenshot_from_2024-11-14_00-48-55_p0wxdy.png))
 *Task Manager Dashboard*
 
-![Task Manager Screenshot 2](./screenshots/task-manager-screenshot2.png)
+![Task Manager Screenshot 2]([./screenshots/task-manager-screenshot2.png](https://res.cloudinary.com/dyifiiyxl/image/upload/v1731525749/Screenshot_from_2024-11-14_00-52-07_zeu8vd.png))
 *Task Form for Adding/Editing Tasks*
 
 ## Installation
