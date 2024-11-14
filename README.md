@@ -1,4 +1,3 @@
-```markdown
 # Task Manager Application
 
 A task management application built with React. It allows users to manage tasks with different priorities (High, Medium, Low), edit, delete, and mark them as completed. The application is simple to use and has a clean, modern design.
@@ -62,4 +61,3 @@ A task management application built with React. It allows users to manage tasks 
 For any queries or support, please reach out at:
 - **Email**: Shivendra323@gmail.com
 - **GitHub**: [Shivendra323](https://github.com/Shivendra323)
-```
